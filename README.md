@@ -19,6 +19,9 @@ Steps
 - Install dependencies: flutter pub get
 - Run the application (Android): flutter run
 
+Visualization of the app
+- https://drive.google.com/drive/folders/1RzwfQWEIKoFNI-gTj6WaDsQJM3l0dPOM?usp=sharing
+
 📄 License
 This project is licensed under the MIT License.
 
